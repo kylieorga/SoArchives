@@ -31,7 +31,7 @@
 
     <div class="container-fluid" style="padding: 0;">
         <div class="event-banner">
-            <img src="{{ asset('images/ev.png') }}" alt="">
+            <img src="images/ev.png" alt="">
             <div class="banner-content">
                 <h1 class="banner-text">Create exciting events!</h1>
             </div>
